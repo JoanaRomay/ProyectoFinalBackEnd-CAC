@@ -8,3 +8,5 @@ Se rellenan los campos vacíos con los datos correspondientes que queremos que e
 [![Captura-de-pantalla-91.png](https://i.postimg.cc/mgw3fJyR/Captura-de-pantalla-91.png)](https://postimg.cc/mPP17dn6)
 
 Al guardar la información, ésta se almacena en la tabla (cliente) de la base de datos (peluqueria):
+
+[![Captura-de-pantalla-92.png](https://i.postimg.cc/BnY8C0C8/Captura-de-pantalla-92.png)](https://postimg.cc/ZWNKTX2Z)
